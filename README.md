@@ -8,7 +8,7 @@
 
 ### 图示
 
-![presentation](https://www.runoob.com/wp-content/uploads/2019/03/sort.png)
+![presentation](presentation.png)
 
 - - -
 
