@@ -1,4 +1,4 @@
-package sort_algorithms
+package main
 
 // 1.比较相邻的两个元素，如果第一个比第二个大，则交换它们的位置
 // 2.一轮下来，最大的元素会排在数列的最后方
